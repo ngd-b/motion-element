@@ -1,6 +1,8 @@
 # motion-element
 页面动效，整理并实现不限于CSS、JS、Canvas。
 
+所有示例代码在目录`/views/`下，以`example-**`命名；外部加载JS目录`JS`下，同示例视图名称。
+
 ### Example-01 - CSS 动画(animate)
 
 知识点：
